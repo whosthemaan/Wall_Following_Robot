@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Group - 007", "index.html", [
+  [ "Group_7_RWA2", "index.html", [
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
