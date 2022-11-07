@@ -18,7 +18,6 @@ int main(int argc, char **argv)    //pass parameter 'l' for left and 'r' for rig
     }
 
     a = a.substr(6, a.size()-1);
-    // std::cerr << a<<std::endl;
 
     //flag for left/right - default is right
     int entry;                          
